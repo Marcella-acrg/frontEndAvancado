@@ -1,12 +1,21 @@
-# React + Vite
+# Disciplina Front End Avançado - UNIESP 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+* Repositório destinado a inclusão dos desafios propostos durantes as aulas da disciplica Front End Avançado ministrada pelo professor Kelson Almeida da UNIESP. 
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Imagens dos desafios propostos
+### Desafio 01 - AULA02
 
-## Expanding the ESLint configuration
+![FrontEndAvancado-Aula02-Desafio1-RenderizandoComFuncoes](https://github.com/user-attachments/assets/e31d7e4b-481c-4804-b204-4d87649ff48c)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### DESAFIO 02 - AULA02
+
+![FrontEndAvancado-Aula02-Desafio2-RenderizandoComImagens](https://github.com/user-attachments/assets/b0ffb92d-feaa-43e3-9c84-22a55b57bcdd)
+
+### DESAFIO 03 - AULA02
+
+![FrontEndAvancado-Aula02-Desafio3-HookContador](https://github.com/user-attachments/assets/f68c35f4-a778-4af1-ba86-18f6b02bf09c)
+
+### DESAFIO 04 - AULA02
+
+![FrontEndAvancado-Aula02-Desafio4-HookMegaSena](https://github.com/user-attachments/assets/7ec5377f-df90-4c6e-b2fd-d1577e832946)
